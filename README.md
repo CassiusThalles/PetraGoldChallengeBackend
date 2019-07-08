@@ -1,7 +1,7 @@
 # Petra Gold Backend Challenge
 
 ## Node version
-In this repository I use Node v12.6.0
+In this repository I used Node v12.6.0
 
 ## Installing
 first of all, you'll need NodeJS installed on your system.
